@@ -1,0 +1,15 @@
+body{
+    background-color: #333;
+    text-align: center;
+    color:aliceblue;
+}
+.menor{
+    color:tomato;
+}
+.mayor{
+    color: rgb(100, 241, 100);
+}
+button{
+    border-radius: 5cm;
+    margin: 0px 0.5rem;
+}
